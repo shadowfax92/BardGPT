@@ -6,8 +6,8 @@ You can use Cmd+Shift+G (Mac) or Ctrl+Shift+G (Win) to quickly open it from anyw
 
 Download:
 
-- Mac:  Apple Silicon/Arm64 Installer - [Mac Arm64 .dmg]()
-- Mac: Intel Installer - [Mac Intel .dmg]()
+- Mac:  Apple Silicon/Arm64 Installer - [dmg](https://github.com/shadowfax92/BardGPT/releases/download/releae/BardGPT-0.0.1-arm64.dmg)
+- Mac: Intel Installer - [dmg](https://github.com/shadowfax92/BardGPT/releases/download/releae/BardGPT-0.0.1-x64.dmg)
 
 No Windows binaries currently offered. Clone the repo, npm install electron-forge and run.
 
