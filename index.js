@@ -84,7 +84,7 @@ app.on("ready", () => {
       {
         label: "Author on Twitter",
         click: () => {
-          shell.openExternal("https://twitter.com/vincelwt");
+          shell.openExternal("https://twitter.com/ShadowfaxApp");
         },
       },
     ];
