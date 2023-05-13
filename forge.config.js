@@ -11,7 +11,7 @@ module.exports = {
     osxSign: {
       hardenedRuntime: false,
       gatekeeperAssess: false,
-      identity: "Developer ID Application: Lyser.io Ltd (R4PF6TTR6Z)",
+      identity: "Developer ID Application: Nikhil Venkat Sonti (8YMKWU47S5)",
     },
     osxNotarize: {
       appBundleId: "com.shadowfax.bardgpt",
