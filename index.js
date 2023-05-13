@@ -52,7 +52,6 @@ app.on("ready", () => {
     }
 
     const contextMenuTemplate = [
-      // add links to github repo and vince's twitter
       {
         label: "Quit",
         accelerator: "Command+Q",

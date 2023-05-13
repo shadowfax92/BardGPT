@@ -4,7 +4,7 @@ module.exports = {
     name: "BardGPT",
     executableName: "BardGPT",
     icon: "images/icon",
-    appBundleId: "com.vincelwt.chatgptmac",
+    appBundleId: "com.shadowfax.bardgpt",
     extendInfo: {
       LSUIElement: "true",
     },
@@ -14,7 +14,7 @@ module.exports = {
       identity: "Developer ID Application: Lyser.io Ltd (R4PF6TTR6Z)",
     },
     osxNotarize: {
-      appBundleId: "com.vincelwt.chatgptmac",
+      appBundleId: "com.shadowfax.bardgpt",
 
       tool: "notarytool",
       appleId: parsed.APPLE_ID,
@@ -27,8 +27,8 @@ module.exports = {
       name: "@electron-forge/publisher-github",
       config: {
         repository: {
-          owner: "vincelwt",
-          name: "chatgpt-mac",
+          owner: "shadowfax92",
+          name: "BardGPT-Mac",
         },
         prerelease: true,
       },
