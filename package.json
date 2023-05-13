@@ -1,7 +1,7 @@
 {
   "name": "bardgpt-mac",
   "productName": "bardgpt-mac",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "Menubar app for BardGPT",
   "main": "index.js",
   "scripts": {
