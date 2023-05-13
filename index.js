@@ -78,7 +78,7 @@ app.on("ready", () => {
       {
         label: "View on GitHub",
         click: () => {
-          shell.openExternal("https://github.com/vincelwt/chatgpt-mac");
+          shell.openExternal("https://github.com/shadowfax92/BardGPT-Mac");
         },
       },
       {
