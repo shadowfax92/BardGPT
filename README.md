@@ -6,8 +6,8 @@ You can use Cmd+Shift+G (Mac) or Ctrl+Shift+G (Win) to quickly open it from anyw
 
 Download:
 
-- [Mac Arm64 .dmg](https://github.com/vincelwt/chatgpt-mac/releases/download/v0.0.5/ChatGPT-0.0.5-arm64.dmg)
-- [Mac Intel .dmg](https://github.com/vincelwt/chatgpt-mac/releases/download/v0.0.5/ChatGPT-0.0.5-x64.dmg)
+- Mac:  Apple Silicon/Arm64 Installer - [Mac Arm64 .dmg]()
+- Mac: Intel Installer - [Mac Intel .dmg]()
 
 No Windows binaries currently offered. Clone the repo, npm install electron-forge and run.
 

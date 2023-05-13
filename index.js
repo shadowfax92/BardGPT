@@ -86,7 +86,7 @@ app.on("ready", () => {
       {
         label: "View on GitHub",
         click: () => {
-          shell.openExternal("https://github.com/shadowfax92/BardGPT-Mac");
+          shell.openExternal("https://github.com/shadowfax92/BardGPT");
         },
       },
       {
