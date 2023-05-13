@@ -76,6 +76,14 @@ app.on("ready", () => {
         type: "separator",
       },
       {
+        label: "Shortcut: Cmd/Ctrl + Shift + G",
+        click: () => {
+        },
+      },
+      {
+        type: "separator",
+      },
+      {
         label: "View on GitHub",
         click: () => {
           shell.openExternal("https://github.com/shadowfax92/BardGPT-Mac");
