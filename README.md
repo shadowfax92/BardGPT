@@ -1,6 +1,6 @@
-# ChatGPT for desktop
+# BardGPT for desktop
 
-This is a simple app that makes ChatGPT live in your menubar.
+This is a simple app that makes BardGPT live in your menubar.
 
 You can use Cmd+Shift+G (Mac) or Ctrl+Shift+G (Win) to quickly open it from anywhere.
 
@@ -21,4 +21,4 @@ All credit and copyrights goes to OpenAI.
 
 ## Author
 
-You can find me on Twitter [@vincelwt](https://twitter.com/vincelwt).
+You can find me on Twitter [@ShadowfaxApp](https://twitter.com/ShadowfaxApp).
