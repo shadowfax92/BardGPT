@@ -1,8 +1,8 @@
 const { parsed } = require("dotenv").config();
 module.exports = {
   packagerConfig: {
-    name: "ChatGPT",
-    executableName: "ChatGPT",
+    name: "BardGPT",
+    executableName: "BardGPT",
     icon: "images/icon",
     appBundleId: "com.vincelwt.chatgptmac",
     extendInfo: {
