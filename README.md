@@ -12,7 +12,7 @@ Download:
 No Windows binaries currently offered. Clone the repo, npm install electron-forge and run.
 
 <p align="center">
-  <img src="./images/screenshot.jpeg" width="500">
+  <img src="./images/screenshot.png" width="500">
 </p>
 
 ## Credit
