@@ -12,13 +12,12 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [
-    "chatgpt",
-    "openai",
+    "bardgpt",
     "mac"
   ],
   "author": {
-    "name": "Vince Loewe",
-    "email": "vince@lyser.io"
+    "name": "Shadowfax Apps",
+    "email": "shadowfax.apps@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
