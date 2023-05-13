@@ -17,7 +17,7 @@ No Windows binaries currently offered. Clone the repo, npm install electron-forg
 
 ## Credit
 - Huge thanks to [@vincelwt](https://github.com/vincelwt) for [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) based on which this is built.
-All credit and copyrights goes to OpenAI.
+- All credit and copyrights goes to Google.
 
 ## Author
 
